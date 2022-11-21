@@ -1,6 +1,5 @@
-# StanCode_SC001
-### Programming Methodologies 
-##### *based on Stanford’s CS106A*
+# StanCode_SC001 - Programming Methodologies 
+### *based on Stanford’s CS106A*
 
 ##### - Assignment 1: 
 
